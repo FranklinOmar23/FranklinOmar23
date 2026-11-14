@@ -1,6 +1,3 @@
-Aquí está el README. Ya está publicado en tu perfil, pero si lo pegas tú, funciona igual. Puse las imágenes con enlaces completos, así se ven aunque lo pegues en otro lado. Lo único que necesitan es que las carpetas `assets/` y `profile/` sigan en tu repo `FranklinOmar23/FranklinOmar23`; ya las subí.
-
-```html
 <a href="https://github.com/FranklinOmar23">
   <img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/header.svg" width="100%" alt="Franklin Disla — Portafolio. Developer / IT Support · Santo Domingo, RD. Disponible para proyectos." />
 </a>
@@ -143,4 +140,4 @@ Aquí está el README. Ya está publicado en tu perfil, pero si lo pegas tú, fu
 <a href="mailto:fdisla@arcodedominicana.com">
   <img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/footer.svg" width="100%" alt="Hablemos: fdisla@arcodedominicana.com · Santo Domingo Norte, RD" />
 </a>
-```
+
