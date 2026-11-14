@@ -140,4 +140,3 @@
 <a href="mailto:fdisla@arcodedominicana.com">
   <img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/footer.svg" width="100%" alt="Hablemos: fdisla@arcodedominicana.com · Santo Domingo Norte, RD" />
 </a>
-
