@@ -1,8 +1,11 @@
+Aquí está el README. Ya está publicado en tu perfil, pero si lo pegas tú, funciona igual. Puse las imágenes con enlaces completos, así se ven aunque lo pegues en otro lado. Lo único que necesitan es que las carpetas `assets/` y `profile/` sigan en tu repo `FranklinOmar23/FranklinOmar23`; ya las subí.
+
+```html
 <a href="https://github.com/FranklinOmar23">
-  <img src="./assets/header.svg" width="100%" alt="Franklin Disla — Portafolio. Developer / IT Support · Santo Domingo, RD. Disponible para proyectos." />
+  <img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/header.svg" width="100%" alt="Franklin Disla — Portafolio. Developer / IT Support · Santo Domingo, RD. Disponible para proyectos." />
 </a>
 
-<img src="./assets/marquee.svg" width="100%" alt="Franklin Disla · Full Stack · Soporte IT · Arcode Dominicana · Hecho en RD" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/marquee.svg" width="100%" alt="Franklin Disla · Full Stack · Soporte IT · Arcode Dominicana · Hecho en RD" />
 
 <p align="center">
   <a href="mailto:fdisla@arcodedominicana.com"><img src="https://img.shields.io/badge/CORREO_%E2%86%97-FF2B2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
@@ -14,7 +17,7 @@
 
 <br />
 
-<img src="./assets/section-01-hola.svg" width="100%" alt="01 — Hola · Sobre mí" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/section-01-hola.svg" width="100%" alt="01 — Hola · Sobre mí" />
 
 **Hi, soy Franklin Disla.** Cofundador de **Arcode Dominicana** y desarrollador freelance. Me apasiona crear soluciones que le hagan la vida más fácil a la gente, ya sea con Node.js, React o C#, o asegurándome de que todo funcione en los servidores.
 
@@ -26,7 +29,7 @@
   </tr>
 </table>
 
-<img src="./assets/section-02-proyectos.svg" width="100%" alt="02 — Proyectos · 06 trabajos seleccionados" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/section-02-proyectos.svg" width="100%" alt="02 — Proyectos · 06 trabajos seleccionados" />
 
 <table>
   <tr>
@@ -87,7 +90,7 @@
   </tr>
 </table>
 
-<img src="./assets/section-03-skills.svg" width="100%" alt="03 — Skills · Stack y herramientas" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/section-03-skills.svg" width="100%" alt="03 — Skills · Stack y herramientas" />
 
 <table>
   <tr>
@@ -115,7 +118,7 @@
   </tr>
 </table>
 
-<img src="./assets/section-04-trayectoria.svg" width="100%" alt="04 — Trayectoria · Experiencia y certificaciones" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/section-04-trayectoria.svg" width="100%" alt="04 — Trayectoria · Experiencia y certificaciones" />
 
 | Período | Puesto | Empresa |
 | :-- | :-- | :-- |
@@ -133,10 +136,11 @@
 
 **Educación:** Administración de Empresas — Instituto Tecnológico de Las Américas (ITLA)
 
-<img src="./assets/section-05-github.svg" width="100%" alt="05 — GitHub · Actividad" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/section-05-github.svg" width="100%" alt="05 — GitHub · Actividad" />
 
-<img src="./profile/github.svg" width="100%" alt="GitHub: repositorios públicos, seguidores y lenguajes más usados" />
+<img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/profile/github.svg" width="100%" alt="GitHub: repositorios públicos, seguidores y lenguajes más usados" />
 
 <a href="mailto:fdisla@arcodedominicana.com">
-  <img src="./assets/footer.svg" width="100%" alt="Hablemos: fdisla@arcodedominicana.com · Santo Domingo Norte, RD" />
+  <img src="https://raw.githubusercontent.com/FranklinOmar23/FranklinOmar23/main/assets/footer.svg" width="100%" alt="Hablemos: fdisla@arcodedominicana.com · Santo Domingo Norte, RD" />
 </a>
+```
