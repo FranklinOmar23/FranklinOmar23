@@ -135,13 +135,7 @@
 
 <img src="./assets/section-05-github.svg" width="100%" alt="05 — GitHub · Actividad" />
 
-<p align="center">
-  <img src="./profile/stats.svg" height="190" alt="Estadísticas de GitHub de Franklin Disla" />
-  <img src="./profile/top-langs.svg" height="190" alt="Lenguajes más usados" />
-</p>
-<p align="center">
-  <img src="./profile/streak.svg" width="100%" alt="Racha de contribuciones" />
-</p>
+<img src="./profile/github.svg" width="100%" alt="GitHub: repositorios públicos, seguidores y lenguajes más usados" />
 
 <a href="mailto:fdisla@arcodedominicana.com">
   <img src="./assets/footer.svg" width="100%" alt="Hablemos: fdisla@arcodedominicana.com · Santo Domingo Norte, RD" />
